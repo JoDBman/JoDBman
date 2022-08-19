@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoDBman
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in DW
+- 🌱 I’m currently learning DW
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
