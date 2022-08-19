@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JoDBman
-- 👀 I’m interested in DW
-- 🌱 I’m currently learning DW
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+-  Hi there 👋
+
+This is the place where I opensource stuff and break things 😂
+
+- 🐉 I’m currently working on something really cool !!
+- 🌱 I'm currently learning DW & its related stuff !!
 
 <!---
 JoDBman/JoDBman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
